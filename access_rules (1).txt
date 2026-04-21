@@ -1,0 +1,10 @@
+R001|Guard Access|Guards have access to all doors at all times|guard||-1|0|0|23|0|100
+R002|Lab Attendant Access|Lab attendants can access all labs|lab_attendant|lab|-1|0|0|23|0|90
+R003|Teacher Classroom Access|Teachers can access classrooms anytime|teacher|classroom|-1|0|0|23|0|80
+R004|Teacher Exam Room Access|Teachers can access exam rooms anytime|teacher|exam_room|-1|0|0|23|0|80
+R005|Staff Data Center Access|Staff members can access data center during office hours|staff|data_center|-1|3|0|23|0|85
+R006|Student Classroom Access|Students can access classrooms during daytime|student|classroom|-1|1|0|23|0|50
+R007|Student Lab Night Restriction|Students cannot access labs at night|student|lab|-1|2|0|23|1|60
+R008|Student Exam Room Restriction|Students cannot access exam rooms|student|exam_room|-1|0|0|23|1|70
+R009|Student Data Center Restriction|Students cannot access data center|student|data_center|-1|0|0|23|1|70
+R010|Public Entrance Access|Everyone can access public entrances||entrance|-1|0|0|23|0|40

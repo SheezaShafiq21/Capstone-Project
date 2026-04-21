@@ -1,0 +1,12 @@
+25F-1234|Ali Hamza|student|3456234789
+25T-1031|Ayesha Khan|teacher|9876543210
+25F-9012|Ahmed Malik|student|1234567890
+25F-3456|Sara Ahmed|teacher|5678901234
+25S-7890|Bilal Hassan|staff|4567890123
+25L-2345|Fatima Ali|lab_attendant|7890123456
+25G-6789|Usman Khan|guard|2345678901
+25F-4567|Zainab Tariq|student|8901234567
+25S-8901|Hassan Raza|staff|6789012345
+25T-1111|Maryam Shahid|teacher|3456789012
+22F-9999|Test User|student|2872465504
+

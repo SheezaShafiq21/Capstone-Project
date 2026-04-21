@@ -1,0 +1,15 @@
+D001|CS Building Room 101|2|classroom
+D002|CS Building Room 102|2|classroom
+D003|CS Building Room 103|2|classroom
+D101|CS Building AI Lab|3|lab
+D102|CS Building Network Lab|3|lab
+D103|CS Building Hardware Lab|3|lab
+D111|Library Main Entrance|1|entrance
+D201|Library Study Room|2|office
+D301|Exam Hall A|3|exam_room
+D302|Exam Hall B|3|exam_room
+D444|Server Room|4|data_center
+D202|Admin Office|2|office
+D112|Cafeteria Entrance|1|entrance
+D113|Sports Complex|1|entrance
+D203|Teacher's Lounge|2|office

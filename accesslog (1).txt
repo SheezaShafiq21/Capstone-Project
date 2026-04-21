@@ -1,0 +1,15 @@
+1764517681|2025-11-30 20:48:01|22F-1234|Ali Hamza|student|D001|CS Building Room 101|classroom|Students can access classrooms during daytime|R006
+1764517687|2025-11-30 20:48:07|22F-1234|Ali Hamza|student|D001|CS Building Room 101|classroom|No applicable rule found.|
+1764517690|2025-11-30 20:48:10|22F-1234|Ali Hamza|student|D101|CS Building AI Lab|lab|No applicable rule found.|
+1764517694|2025-11-30 20:48:14|22F-1234|Ali Hamza|student|D101|CS Building AI Lab|lab|Students cannot access labs at night|R007
+1764517695|2025-11-30 20:48:15|22F-5678|Ayesha Khan|teacher|D301|Exam Hall A|exam_room|Teachers can access exam rooms anytime|R004
+1764517696|2025-11-30 20:48:16|22F-6789|Usman Khan|guard|D401|Server Room|data_center|Guards have access to all doors at all times|R001
+1764517697|2025-11-30 20:48:17|22F-1234|Ali Hamza|student|D401|Server Room|data_center|Students cannot access data center|R009
+1764517698|2025-11-30 20:48:18|22F-2345|Fatima Ali|lab_attendant|D101|CS Building AI Lab|lab|Lab attendants can access all labs|R002
+1764517698|2025-11-30 20:48:18|22F-7890|Bilal Hassan|staff|D401|Server Room|data_center|Staff members can access data center during office hours|R005
+1764517700|2025-11-30 20:48:20|22F-1234|Ali Hamza|student|D501|Cafeteria Entrance|entrance|Everyone can access public entrances|R010
+1764518184|2025-11-30 20:56:24|25F-1234|Ali Hamza|student|D001|CS Building Room 101|classroom|Students can access classrooms during daytime|R006
+1764518185|2025-11-30 20:56:25|25F-1234|Ali Hamza|student|D101|CS Building AI Lab|lab|Students cannot access labs at night|R007
+1764518185|2025-11-30 20:56:25|25T-1031|Ayesha Khan|teacher|D101|CS Building AI Lab|lab|No applicable rule found.|
+1764518185|2025-11-30 20:56:25|25G-6789|Usman Khan|guard|D444|Server Room|data_center|Guards have access to all doors at all times|R001
+1764518301|2025-11-30 20:58:21|25F-3456|Sara Ahmed|teacher|D444|Server Room|data_center|No applicable rule found.|
